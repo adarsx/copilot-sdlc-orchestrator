@@ -2,7 +2,7 @@
 
 | # | Stage | Status | Deliverable | Approval |
 |---|-------|--------|-------------|----------|
-| 1 | Requirements | Pending | - | Pending |
+| 1 | Requirements | Approved | [requirements.md](artifacts/KAN-2/requirements.md) | Approved |
 | 2 | Architecture | Pending | - | Pending |
 | 3 | Design Review | Pending | - | Pending |
 | 4 | Implementation Planning | Pending | - | Pending |
