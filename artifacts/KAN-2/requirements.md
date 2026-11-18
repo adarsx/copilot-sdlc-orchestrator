@@ -2,7 +2,7 @@
 
 **Issue:** [KAN-2 — Build a simple browser Todo app](https://adarsh0628.atlassian.net/browse/KAN-2)
 
-**Status:** Awaiting Approval
+**Status:** Approved
 
 ## User story
 
