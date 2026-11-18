@@ -7,4 +7,4 @@
 | Implementation | [index.html](../../index.html) | Approved the static app, local task operations, persistence, offline tests, and preview server; five tests passed with portable Node.js v22.23.5. |
 | Code Review | [code-review.md](../../artifacts/KAN-2/code-review.md) | Approved the review outcome with no blocking findings. |
 | Verification | [verification.md](../../artifacts/KAN-2/verification.md) | Approved after five passing tests, clean syntax/whitespace checks, and successful local browser smoke verification. |
-| Pull Request | [pull-request.md](../../artifacts/KAN-2/pull-request.md) | Prepared PR title, changelog, body, test evidence, and verified `feature` → `main` target in `adarsx/copilot-sdlc-orchestrator`; awaiting publication approval. |
+| Pull Request | [pull-request.md](../../artifacts/KAN-2/pull-request.md) | Published [PR #1](https://github.com/adarsx/copilot-sdlc-orchestrator/pull/1) from `feature` to `main`; it is open and unmerged, and no CI check runs or statuses have reported yet. |

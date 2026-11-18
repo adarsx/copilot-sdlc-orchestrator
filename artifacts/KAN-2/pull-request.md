@@ -2,15 +2,18 @@
 
 **Issue:** [KAN-2 — Build a simple browser Todo app](https://adarsh0628.atlassian.net/browse/KAN-2)
 
-**Status:** Awaiting Approval
+**Status:** Published; PR open
 
 ## Verified target
 
 - **Repository:** `adarsx/copilot-sdlc-orchestrator`
-- **Head branch:** `feature` (local branch; no remote `feature` branch exists yet)
+- **Head branch:** `feature`
 - **Base branch:** `main`
 - **Verified base tip:** `b1c1a50a41c9009ce37e65e96e288d2842383e31`
-- **Existing PR:** No open PR was found for `adarsx:feature` into `main`.
+- **App delivery commit:** `a01ca785e9679cc89f9f00a31498b13ead5e1439`
+- **Pull request:** [#1 — feat: build KAN-2 browser todo app](https://github.com/adarsx/copilot-sdlc-orchestrator/pull/1)
+- **State:** Open, unmerged; GitHub reports the branch is mergeable.
+- **CI:** No check runs or commit statuses have reported yet (0 check runs and 0 combined statuses when queried).
 
 The feature branch includes the existing KAN-2 requirements/target-approval commits and the earlier orchestrator setup commit, in addition to the current app work. The `origin` remote and GitHub repository access both resolve to the confirmed target repository.
 
@@ -42,6 +45,6 @@ Added a dependency-free, responsive browser Todo app with trimmed task entry, co
 
 No backend, framework, login, database, external runtime dependency, or out-of-scope task features were added. Do not merge this pull request.
 
-## Publication state
+## Publication result
 
-No branch push or pull request has been made. Publication is waiting for explicit user approval of the exact head branch, repository, and base branch.
+The approved `feature` branch was pushed and PR #1 was created against `main`. The PR remains open and has not been merged. CI has not reported any check runs or commit statuses yet. Uncommitted agent/configuration changes remain excluded from the PR.
