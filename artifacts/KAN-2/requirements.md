@@ -2,7 +2,7 @@
 
 **Issue:** [KAN-2 — Build a simple browser Todo app](https://adarsh0628.atlassian.net/browse/KAN-2)
 
-**Status:** Approved
+**Status:** Awaiting Approval
 
 ## User story
 
@@ -21,6 +21,7 @@ As a user, I want to add, complete, and delete tasks so I can manage a small per
 2. The app requires no login, database, backend API, framework, or external runtime dependency.
 3. Implement with plain HTML, CSS, and JavaScript. Tests use Node.js built-ins and `node --test`; a small static preview server is permitted.
 4. Do not add filters, task editing, due dates, or other features beyond this issue's scope.
+5. Keep tests and fixtures offline; use local or mocked data only.
 
 ## Acceptance criteria
 
@@ -33,10 +34,8 @@ As a user, I want to add, complete, and delete tasks so I can manage a small per
 7. **Focused automated tests:** The test suite includes focused coverage for adding a task, rejecting blank input, toggling completion, and deleting a task.
 8. **Application smoke check:** A real application smoke check demonstrates that the app can be started and used as a browser Todo app. Record the actual commands and results during verification; no test results are claimed by this requirements document.
 
-## Clarifications
+## Delivery
 
-The user confirmed the Jira story and acceptance criteria without additional functional clarifications.
-
-## Delivery target correction
-
-The Jira description names `adarsx/copilot-documentation-sync-capstone` as the implementation and pull-request target. The user corrected the target to `https://github.com/adarsx/copilot-sdlc-orchestrator` and approved that correction for this workflow. This approved target supersedes the Jira target; no functional requirement or acceptance criterion is changed.
+- The user confirmed in this run that implementation and pull request work target `adarsx/copilot-sdlc-orchestrator`, replacing the repository named in the Jira description.
+- Commit and push a feature branch, then raise a pull request against `main` in the confirmed repository.
+- Do not merge the pull request.
