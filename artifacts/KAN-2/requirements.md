@@ -2,7 +2,7 @@
 
 **Issue:** [KAN-2 — Build a simple browser Todo app](https://adarsh0628.atlassian.net/browse/KAN-2)
 
-**Status:** Awaiting approval
+**Status:** Approved
 
 ## User story
 
@@ -35,4 +35,8 @@ As a user, I want to add, complete, and delete tasks so I can manage a small per
 
 ## Clarifications
 
-The user confirmed the issue is correct and reported no additional or ambiguous requirements.
+The user confirmed the Jira story and acceptance criteria without additional functional clarifications.
+
+## Delivery target correction
+
+The Jira description names `adarsx/copilot-documentation-sync-capstone` as the implementation and pull-request target. The user corrected the target to `https://github.com/adarsx/copilot-sdlc-orchestrator` and approved that correction for this workflow. This approved target supersedes the Jira target; no functional requirement or acceptance criterion is changed.
