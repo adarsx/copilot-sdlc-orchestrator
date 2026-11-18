@@ -12,7 +12,7 @@
 - **Verified base tip:** `b1c1a50a41c9009ce37e65e96e288d2842383e31`
 - **App delivery commit:** `a01ca785e9679cc89f9f00a31498b13ead5e1439`
 - **Pull request:** [#1 — feat: build KAN-2 browser todo app](https://github.com/adarsx/copilot-sdlc-orchestrator/pull/1)
-- **State:** Open, unmerged; GitHub reports the branch is mergeable.
+- **State:** Open and unmerged. GitHub initially reported a clean mergeable state; its latest mergeability field is currently `unknown`.
 - **CI:** No check runs or commit statuses have reported yet (0 check runs and 0 combined statuses when queried).
 
 The feature branch includes the existing KAN-2 requirements/target-approval commits and the earlier orchestrator setup commit, in addition to the current app work. The `origin` remote and GitHub repository access both resolve to the confirmed target repository.
