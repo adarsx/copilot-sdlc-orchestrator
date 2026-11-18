@@ -9,4 +9,4 @@
 | 5 | Implementation | Approved | [index.html](index.html) | Approved |
 | 6 | Code Review | Approved | [code-review.md](artifacts/KAN-2/code-review.md) | Approved |
 | 7 | Verification | Approved | [verification.md](artifacts/KAN-2/verification.md) | Approved |
-| 8 | Pull Request | In Progress | [pull-request.md](artifacts/KAN-2/pull-request.md) | Pending |
+| 8 | Pull Request | Awaiting Approval | [pull-request.md](artifacts/KAN-2/pull-request.md) | Pending |
